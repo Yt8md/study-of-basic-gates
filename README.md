@@ -91,14 +91,16 @@ endmodule
  
 
 
-**RTL realization Output:** 
-
-![image](https://github.com/user-attachments/assets/92cf52ed-7fc5-4de8-93df-c04a8c518c9c)
-
-
-**RTL**
+**RTL:** 
 
 ![image](https://github.com/user-attachments/assets/52d31044-7d5e-43cd-8e73-434dfea7be3f)
+
+
+**RTL realization Output:**
+
+
+
+![image](https://github.com/user-attachments/assets/92cf52ed-7fc5-4de8-93df-c04a8c518c9c)
 
 
 **Result:**
