@@ -104,6 +104,7 @@ endmodule
 
 
 **Result:**
- The program is verified successfully using the software quartus prime.
+
+ The given logic gates program is verified successfully using the software quartus prime.
 
 
