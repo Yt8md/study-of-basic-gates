@@ -62,6 +62,11 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
+**RTL:** 
+
+![image](https://github.com/user-attachments/assets/52d31044-7d5e-43cd-8e73-434dfea7be3f)
+
+
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
@@ -89,16 +94,7 @@ assign z = ~(a^b); // XNOR gate
 endmodule
 ```
  
-
-
-**RTL:** 
-
-![image](https://github.com/user-attachments/assets/52d31044-7d5e-43cd-8e73-434dfea7be3f)
-
-
-**RTL realization Output:**
-
-
+**Waveform:**
 
 ![image](https://github.com/user-attachments/assets/92cf52ed-7fc5-4de8-93df-c04a8c518c9c)
 
